@@ -1,5 +1,5 @@
 FROM python:2.7
-MAINTAINER sai kumar  "saigoud666@gmail.com"
+MAINTAINER Madhu Sudhan reddy  "jmstechhome@gmail.com"
 COPY . /app
 WORKDIR /app
 RUN pip install -r requirements.txt
